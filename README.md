@@ -1,4 +1,4 @@
-# Fuel demand side for esbjerg case
+# Fuel demand side for the Esbjerg case
 
 *MarE-Fuel: WP1 T2*
 
