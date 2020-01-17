@@ -1,0 +1,7 @@
+codes,labels
+LBK ,Liquid bulk goods
+DBK ,Dry bulk goods
+LCNT ,Large containers
+RO_MSP ,Ro-Ro - mobile self-propelled units
+RO_MNSP ,Ro-Ro - mobile non-self-propelled units
+OTH ,Other cargo not elsewhere specified 

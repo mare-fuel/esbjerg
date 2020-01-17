@@ -1,0 +1,260 @@
+codes,labels
+AE ,United Arab Emirates
+AG ,Antigua and Barbuda
+AGG_NSP ,Aggregates extraction areas not elsewhere specified and other activities not elsewhere specified
+AI ,Anguilla (UK)
+AL ,Albania
+AN ,Former Netherlands Antilles
+AO ,Angola
+AQ ,Antarctica
+AR ,Argentina
+AS ,American Samoa (US)
+AU ,Australia
+AU_ISL ,Australian Oceania
+AW ,Aruba (NL)
+AZ ,Azerbaijan
+BA ,Bosnia and Herzegovina
+BB ,Barbados
+BD ,Bangladesh
+BE ,Belgium
+BG ,Bulgaria
+BH ,Bahrain
+BJ ,Benin
+BL ,Saint-Barthélemy (FR)
+BM ,Bermuda (UK)
+BN ,Brunei Darussalam
+BQ ,"Bonaire, Saint Eustatius and Saba"
+BR ,Brazil
+BS ,Bahamas
+BY ,Belarus
+BZ ,Belize
+CA ,Canada
+CA_1 ,Canada: Atlantic
+CA_2 ,"Canada: Great Lakes, Upper St Lawrence"
+CA_3 ,Canada: West Coast
+CA_9 ,Canada: unspecified maritime coastal area
+CC ,Cocos (Keeling) Islands (AU)
+CD ,Democratic Republic of the Congo
+CG ,Congo
+CI ,Côte d'Ivoire
+CK ,Cook Islands (NZ)
+CL ,Chile
+CM ,Cameroon
+CN_X_HK ,China (except Hong Kong)
+CO ,Colombia
+CO_1 ,Colombia: North Coast
+CO_2 ,Colombia: West Coast
+CO_9 ,Colombia: unspecified maritime coastal area
+CR ,Costa Rica
+CU ,Cuba
+CV ,Cape Verde
+CW ,Curaçao
+CX ,Christmas Island (AU)
+CY ,Cyprus
+DE ,Germany
+DE_1 ,Germany: North Sea
+DE_2 ,Germany: Baltic Sea
+DE_3 ,Germany: Rhine
+DE_9 ,Germany: unspecified maritime coastal area
+DJ ,Djibouti
+DK ,Denmark
+DM ,Dominica
+DO ,Dominican Republic
+DZ ,Algeria
+EC ,Ecuador
+EE ,Estonia
+EG ,Egypt
+EG_1 ,Egypt: Mediterranean
+EG_2 ,Egypt: Red Sea
+EG_9 ,Egypt: unspecified maritime coastal area
+EL ,Greece
+ER ,Eritrea
+ES ,Spain
+ES_1 ,Spain: North Atlantic
+ES_2 ,Spain: Mediterranean and South Atlantic
+ES_3 ,Spain: Ceuta
+ES_4 ,Spain: Melilla
+ES_9 ,Spain: unspecified maritime coastal area
+FI ,Finland
+FJ ,Fiji
+FK ,Falkland Islands (UK)
+FO ,Faeroe Islands (DK)
+FR ,France
+FR_1 ,France: Atlantic / North Sea
+FR_2 ,France: Mediterranean
+FR_3 ,France: Guyane
+FR_4 ,France: Guadeloupe and Martinique
+FR_5 ,France: Réunion
+FR_6 ,France: Mayotte
+FR_9 ,France: unspecified maritime coastal area
+GA ,Gabon
+GD ,Grenada
+GE ,Georgia
+GH ,Ghana
+GI ,Gibraltar (UK)
+GL ,Greenland (DK)
+GM ,"Gambia, The"
+GN ,Guinea
+GQ ,Equatorial Guinea
+GT ,Guatemala
+GW ,Guinea-Bissau
+GY ,Guyana
+HK ,Hong Kong
+HN ,Honduras
+HR ,Croatia
+HT ,Haiti
+ID ,Indonesia
+IE ,Ireland
+IL ,Israel
+IL_1 ,Israel: Mediterranean
+IL_2 ,Israel: Red Sea
+IL_9 ,Israel: unspecified maritime coastal area
+IN ,India
+IQ ,Iraq
+IR ,Iran
+IS ,Iceland
+IT ,Italy
+JM ,Jamaica
+JO ,Jordan
+JP ,Japan
+KE ,Kenya
+KH ,Cambodia
+KI ,Kiribati
+KM ,Comoros
+KN ,Saint Kitts and Nevis
+KP ,North Korea
+KR ,South Korea
+KW ,Kuwait
+KY ,Cayman Islands (UK)
+KZ ,Kazakhstan
+LB ,Lebanon
+LC ,Saint Lucia
+LK ,Sri Lanka
+LR ,Liberia
+LT ,Lithuania
+LV ,Latvia
+LY ,Libya
+MA ,Morocco
+MA_1 ,Morocco: Mediterranean
+MA_2 ,Morocco: West Africa
+MA_9 ,Morocco: unspecified maritime coastal area
+MC ,Monaco
+ME ,Montenegro
+MF ,Saint Martin (FR)
+MG ,Madagascar
+MH ,Marshall Islands
+MM ,Myanmar/Burma
+MO ,Macao
+MP ,Northern Mariana Islands (US)
+MR ,Mauritania
+MS ,Montserrat (UK)
+MT ,Malta
+MU ,Mauritius
+MV ,Maldives
+MX ,Mexico
+MX_1 ,Mexico: Atlantic
+MX_2 ,Mexico: Pacific
+MX_9 ,Mexico: unspecified maritime coastal area
+MY ,Malaysia
+MZ ,Mozambique
+NA ,Namibia
+NC ,New Caledonia (FR)
+NF ,Norfolk Island (AU)
+NG ,Nigeria
+NI ,Nicaragua
+NL ,Netherlands
+NO ,Norway
+NR ,Nauru
+NZ ,New Zealand
+OFF_NSP ,Offshore installations not elsewhere specified
+OM ,Oman
+PA ,Panama
+PE ,Peru
+PF ,French Polynesia (FR)
+PG ,Papua New Guinea
+PH ,Philippines
+PK ,Pakistan
+PL ,Poland
+PM ,Saint Pierre and Miquelon (FR)
+PN ,Pitcairn Islands (UK)
+PS ,Palestine
+PT ,Portugal
+QA ,Qatar
+RO ,Romania
+RU ,Russia
+RU_1 ,Russia: Black Sea
+RU_2 ,Russia: Baltic Sea (unspecified)
+RU_3 ,Russia: Asia
+RU_4 ,Russia: Barents and White Sea
+RU_5 ,Russia: Baltic Sea (Gulf of Finland only)
+RU_6 ,Russia: Baltic Sea (excluding Gulf of Finland)
+RU_7 ,"Russia: European inland waterways, including Caspian Sea"
+RU_9 ,Russia: unspecified maritime coastal area
+SA ,Saudi Arabia
+SA_1 ,Saudi Arabia: Red Sea
+SA_2 ,Saudi Arabia: Gulf
+SA_9 ,Saudi Arabia: unspecified maritime coastal area
+SB ,Solomon Islands
+SC ,Seychelles
+SD ,Sudan
+SE ,Sweden
+SE_1 ,Sweden: Baltic Sea
+SE_2 ,Sweden: North Sea
+SE_9 ,Sweden: unspecified maritime coastal area
+SG ,Singapore
+SH ,"Saint Helena, Ascension and Tristan da Cunha (UK)"
+SI ,Slovenia
+SL ,Sierra Leone
+SN ,Senegal
+SO ,Somalia
+SR ,Suriname
+ST ,São Tomé and Príncipe
+SV ,El Salvador
+SX ,Sint Maarten
+SY ,Syria
+TC ,Turks and Caicos Islands (UK)
+TF ,French Southern Territories (FR)
+TG ,Togo
+TH ,Thailand
+TL ,Timor-Leste
+TM ,Turkmenistan
+TN ,Tunisia
+TR ,Turkey
+TR_1 ,Turkey: Black Sea
+TR_2 ,Turkey: Mediterranean
+TR_9 ,Turkey: unspecified maritime coastal area
+TT ,Trinidad and Tobago
+TW ,Taiwan
+TZ ,Tanzania
+UA ,Ukraine
+UK ,United Kingdom
+UK_1 ,United Kingdom: Great Britain and Northern Ireland
+UK_2 ,United Kingdom: Isle of Man
+UK_3 ,United Kingdom: Guernsey and Jersey (Channel Islands)
+UK_9 ,United Kingdom: unspecified maritime coastal area
+UM ,United States Minor Outlying Islands (US)
+UNK ,Unknown 
+UNK ,Unknown
+UNK_NSP ,Total unspecified and unknown locations
+US ,United States
+US_1 ,United States: North Atlantic
+US_2 ,United States: South Atlantic
+US_3 ,United States: Gulf
+US_4 ,United States: South Pacific
+US_5 ,United States: North Pacific
+US_6 ,United States: Great Lakes
+US_7 ,United States: Puerto Rico
+US_9 ,United States: unspecified maritime coastal area
+US_ISL ,American Oceania (US)
+UY ,Uruguay
+VC ,Saint Vincent and the Grenadines
+VE ,Venezuela
+VG ,British Virgin Islands (UK)
+VI ,US Virgin Islands (US)
+VN ,Vietnam
+VU ,Vanuatu
+WF ,Wallis and Futuna (FR)
+WS ,Samoa
+YE ,Yemen
+YT ,Mayotte (FR - part of EU as of 01.01.2014)
+ZA ,South Africa

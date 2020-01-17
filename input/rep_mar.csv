@@ -1,0 +1,416 @@
+codes,labels
+BE_0BEANR ,Antwerpen
+BE_0BEGNE ,Gent (Ghent)
+BE_0BEOST ,Oostende (Ostend)
+BE_0BEZEE ,Zeebrugge
+DE_1DE017 ,Föhr
+DE_1DE116 ,Germany (Elbe) - other ports
+DE_1DE76Y ,Esens
+DE_1DE88N ,Germany (North Sea) - other ports
+DE_1DEAGE ,Wangerooge
+DE_1DEBEI ,Beidenfleth
+DE_1DEBEN ,Bensersiel
+DE_1DEBKE ,Brake
+DE_1DEBMK ,Borkum
+DE_1DEBMR ,Baltrum
+DE_1DEBRB ,Brunsbüttel
+DE_1DEBRE ,Bremen
+DE_1DEBRV ,Bremerhaven
+DE_1DEBUM ,Büsum
+DE_1DEBUZ ,Bützfleth
+DE_1DECAR ,Carolinensiel
+DE_1DECUX ,Cuxhaven
+DE_1DEDAG ,Dagebüll
+DE_1DEEME ,Emden
+DE_1DEGLU ,Glückstadt
+DE_1DEGXR ,Gröde
+DE_1DEHAM ,Hamburg
+DE_1DEHGL ,Helgoland
+DE_1DEHUS ,Husum
+DE_1DEIAM ,Amrum
+DE_1DEITZ ,Itzehoe
+DE_1DEJUI ,Juist
+DE_1DELEE ,Leer
+DE_1DELGO ,Langeoog
+DE_1DELIS ,List/Sylt
+DE_1DENES ,Nessmersiel
+DE_1DENHA ,Nordenham
+DE_1DENHS ,Neuharlingersiel
+DE_1DENOE ,Norddeich
+DE_1DENOR ,Nordstrand
+DE_1DENRD ,Norderney
+DE_1DEOLO ,Oldenburg
+DE_1DEPAP ,Papenburg
+DE_1DEPEL ,Pellworm
+DE_1DESPI ,Spieckeroog
+DE_1DESTA ,Stade
+DE_1DEWED ,Wedel-Schulau
+DE_1DEWIF ,Wischhafen
+DE_1DEWMD ,Wittmund
+DE_1DEWVN ,Wilhelmshaven
+DE_2DEANK ,Anklam
+DE_2DEBOF ,Berndshof
+DE_2DEBSK ,Burgstaaken/Fehmarn
+DE_2DEDMN ,Demmin
+DE_2DEECK ,Eckernförde
+DE_2DEFLF ,Flensburg
+DE_2DEGRD ,Greifswald
+DE_2DEHHF ,Heiligenhafen
+DE_2DEKAP ,Kappeln
+DE_2DEKEL ,Kiel
+DE_2DELBC ,Lübeck
+DE_2DENHO ,Neustadt/Holstein
+DE_2DEPUB ,Putbus
+DE_2DEPUT ,Puttgarden
+DE_2DEREN ,Rendsburg
+DE_2DERSK ,Rostock
+DE_2DESAS ,Sassnitz
+DE_2DESTL ,Stralsund
+DE_2DEUCK ,Ueckermünde
+DE_2DEWIS ,Wismar
+DE_2DEWOL ,Wolgast
+DE_3DE75F ,Sachsenhagen
+DE_3DE888 ,Germany - other inland ports
+DE_3DEAND ,Andernach
+DE_3DEBDF ,Bendorf/Rhein
+DE_3DEBER ,Berlin
+DE_3DEBOT ,Bottrop
+DE_3DECGN ,Köln
+DE_3DEDTM ,Dortmund
+DE_3DEDUI ,Duisburg
+DE_3DEDUS ,Düsseldorf
+DE_3DEESU ,Emmelsum
+DE_3DEFRA ,Frankfurt am Main
+DE_3DEGDO ,Godorf
+DE_3DEGEK ,Gelsenkirchen
+DE_3DEHAU ,Hanau
+DE_3DEHIL ,Hildesheim
+DE_3DEIBB ,Ibbenbüren
+DE_3DEKRE ,Krefeld
+DE_3DELIG ,Lingen
+DE_3DELLS ,Lülsdorf
+DE_3DELUE ,Lünen
+DE_3DEMAG ,Magdeburg
+DE_3DEMEP ,Meppen
+DE_3DEMID ,Minden
+DE_3DEMUH ,Mülheim an der Ruhr
+DE_3DENSS ,Neuss
+DE_3DEORS ,Orsoy
+DE_3DEPEI ,Peine
+DE_3DEPYK ,Spyck
+DE_3DEREC ,Recklinghausen
+DE_3DERHB ,Rheinberg-Ossenberg
+DE_3DESAR ,Salzgitter
+DE_3DESTR ,Stuttgart
+DE_3DEVIW ,Vierow
+DE_3DEVNA ,Venhaus
+DE_3DEWES ,Wesel
+DE_3DEWLM ,Walsum
+DE_3DEWNU ,Weissenthurm
+DE_9DE888 ,Germany (unknown maritime coastal area) - other ports
+DK_0DKAAB ,Aabenraa
+DK_0DKAAL ,Aalborg
+DK_0DKAAR ,Århus
+DK_0DKAIT ,Asnæs Inter Terminal
+DK_0DKASV ,Asnæsværkets Havn
+DK_0DKAVE ,Avedøreværkets Havn
+DK_0DKCPH ,Københavns Havn
+DK_0DKEBJ ,Esbjerg
+DK_0DKEBT ,Ebeltoft
+DK_0DKEIT ,Ensted Inter Terminal
+DK_0DKENS ,Enstedværkets Havn
+DK_0DKFDH ,Frederikshavn
+DK_0DKFRC ,Fredericia (Og Shell-Havnen)
+DK_0DKGED ,Gedser
+DK_0DKGFH ,Gulfhavnen
+DK_0DKGRE ,Grenå
+DK_0DKHIR ,Hirtshals
+DK_0DKHLS ,Helsingør (Elsinore)
+DK_0DKKAL ,Kalundborg
+DK_0DKKOG ,Køge
+DK_0DKKOL ,Kolding
+DK_0DKKRR ,Korsør
+DK_0DKNBG ,Nyborg
+DK_0DKODE ,Odense
+DK_0DKRAN ,Randers
+DK_0DKRNN ,Rønne
+DK_0DKROF ,Rødby (Færgehavn)
+DK_0DKROR ,Aalborg Portland (Cementfabrikken Rordal)
+DK_0DKSIT ,Stigsnaes Inter Terminal
+DK_0DKSJO ,Sjællands Odde
+DK_0DKSSV ,Studstrupværkets Havn
+DK_0DKSTG ,Stigsnæsværkets Havn
+DK_0DKSTT ,Statoil-Havnen
+DK_0DKSVV ,Frederiskværk Havn (Frederiksværk Stålvalseværk)
+DK_0DKTYB ,Thyborøn
+DK_0DKVEJ ,Vejle
+DK_0DKVSV ,Nordjyllandsværkets Havn
+FI_0FI001 ,Finland - other inland ports 
+FI_0FI002 ,HaminaKotka
+FI_0FIHEL ,Helsinki
+FI_0FIHKO ,Hanko
+FI_0FIHMN ,Hamina
+FI_0FIINK ,Inkoo
+FI_0FIKAS ,Kaskinen
+FI_0FIKEM ,Kemi
+FI_0FIKOK ,Kokkola
+FI_0FIKTK ,Kotka
+FI_0FIKVH ,Koverhar
+FI_0FILOV ,Loviisa
+FI_0FINLI ,Naantali
+FI_0FIOUL ,Oulu
+FI_0FIPAR ,Parainen
+FI_0FIPOR ,Pori
+FI_0FIPRS ,Pietarsaari
+FI_0FIRAA ,Raahe
+FI_0FIRAU ,Rauma
+FI_0FIRTR ,Rautaruukki
+FI_0FISKV ,Sköldvik
+FI_0FITKU ,Turku
+FI_0FITOR ,Tornio
+FI_0FIUKI ,Uusikaupunki
+FI_0FIVAA ,Vaasa
+FR_1FRBAY ,Bayonne
+FR_1FRBES ,Brest
+FR_1FRBOD ,Bordeaux
+FR_1FRBOL ,Boulogne-sur-Mer
+FR_1FRCER ,Cherbourg
+FR_1FRCFR ,Caen
+FR_1FRCQF ,Calais
+FR_1FRDKK ,Dunkerque
+FR_1FRDPE ,Dieppe
+FR_1FRLEH ,Le Havre
+FR_1FRLRH ,La Rochelle
+FR_1FRLRT ,Lorient
+FR_1FRLSO ,Les Sables d'Olonne
+FR_1FRNTE ,Nantes Saint-Nazaire
+FR_1FRSML ,St Malo
+FR_1FRURO ,Rouen
+FR_2FRAJA ,Ajaccio
+FR_2FRBIA ,Bastia
+FR_2FRMRS ,Marseille
+FR_2FRNOU ,Port-la-Nouvelle
+FR_2FRSET ,Sète
+FR_2FRTLN ,Toulon 
+FR_4GPPTP ,Pointe-à-Pitre (Guadeloupe)
+FR_4MQFDF ,Fort-de France (Martinique)
+FR_5REPDG ,Port Réunion (ex Pointe-des-Galets) (Réunion)
+NL_0NL888 ,Netherlands - other ports
+NL_0NLAMS ,Amsterdam
+NL_0NLDHR ,Den Helder
+NL_0NLDOR ,Dordrecht
+NL_0NLDZL ,Delfzijl
+NL_0NLHAR ,Harlingen
+NL_0NLMOE ,Moerdijk
+NL_0NLRTM ,Rotterdam
+NL_0NLSCE ,Scheveningen
+NL_0NLTNZ ,Terneuzen
+NL_0NLVLA ,Vlaardingen
+NL_0NLVLI ,Vlissingen
+NL_0NLZAA ,Zaanstad
+NL_0NLZSP ,Zeeland Seaports
+NL_0NLZWI ,Zwijndrecht
+NO_0NO888 ,Norway - other ports
+NO_0NOADY ,Andøy
+NO_0NOAES ,Ålesund
+NO_0NOALF ,Alta
+NO_0NOARE ,Arendal
+NO_0NOAUL ,Aurland
+NO_0NOBGO ,Bergen
+NO_0NOBJF ,Båtsfjord
+NO_0NOBNN ,Bronnoysund
+NO_0NOBOO ,Bodø
+NO_0NOBRE ,Bremanger
+NO_0NOBRG ,Borg
+NO_0NOBRO ,Brønnøy
+NO_0NOBRR ,Borre
+NO_0NODRM ,Drammen
+NO_0NOEGD ,Eigersund
+NO_0NOEGE ,Egersund
+NO_0NOFAN ,Farsund
+NO_0NOFFD ,Flekkefjord
+NO_0NOFRK ,Fredrikstad
+NO_0NOFRO ,Florø/Flora
+NO_0NOFUS ,Fusa
+NO_0NOGTD ,Grimstad
+NO_0NOGUL ,Gulen
+NO_0NOGVL ,"Porsgrunn, Rafnes, Herøya, Brevik, Skien, Langesund, Voldsfjorden"
+NO_0NOHAD ,Hadsel
+NO_0NOHAL ,Halden
+NO_0NOHAU ,Haugesund
+NO_0NOHFT ,Hammerfest
+NO_0NOHOL ,Holmestrand
+NO_0NOHRD ,Harstad
+NO_0NOHVG ,Honningsvåg
+NO_0NOKAS ,Karmsund
+NO_0NOKKN ,Kirkenes
+NO_0NOKRA ,Kragerø
+NO_0NOKRS ,Kristiansand S
+NO_0NOKSU ,Kristiansund N/Grip
+NO_0NOKVD ,Kvinesdal
+NO_0NOLAR ,Larvik
+NO_0NOLIL ,Lillesand
+NO_0NOLOD ,Lødingen
+NO_0NOLOP ,Loppa
+NO_0NOLUS ,Luster
+NO_0NOMAN ,Mandal
+NO_0NOMAY ,Måløy
+NO_0NOMJF ,Mosjøen
+NO_0NOMOD ,Modalen
+NO_0NOMOL ,Molde
+NO_0NOMQN ,Mo i Rana
+NO_0NOMSS ,Moss
+NO_0NOMSY ,Måsøy
+NO_0NOMYO ,Øksnes/Myre
+NO_0NONVK ,Narvik
+NO_0NOOLN ,Ølen
+NO_0NOOSL ,Oslo
+NO_0NOOSY ,Namsos
+NO_0NORNA ,Rana
+NO_0NOSAS ,Sandnes
+NO_0NOSAU ,Sauda
+NO_0NOSKY ,Skjervøy
+NO_0NOSLX ,Sortland
+NO_0NOSRP ,Stord
+NO_0NOSSJ ,Sandnessjøen
+NO_0NOSVE ,Svelgen
+NO_0NOSVG ,Stavanger
+NO_0NOTON ,Tønsberg
+NO_0NOTOS ,Tromsø
+NO_0NOTRD ,Trondheim/Flakk
+NO_0NOTRF ,Sandefjord
+NO_0NOVAO ,Vardø
+NO_0NOVDS ,Vadsø
+NO_0NOVER ,Verdal
+NO_0NOVGN ,Vågan/Kabelvåg
+NO_0NOVKN ,Vikna
+NO_0SJLYR ,Longyearbyen
+NO_0SJSVE ,Sveagruva (Svalbard)
+PL_0PLGDN ,Gdansk
+PL_0PLGDY ,Gdynia
+PL_0PLPLC ,Police
+PL_0PLSWI ,Swinoujscie
+PL_0PLSZZ ,Szczecin 
+SE_1 ,Sweden: Baltic Sea
+SE_1SEAHU ,Åhus
+SE_1SEBER ,Bergs Oljehamn
+SE_1SEELL ,Elleholm
+SE_1SEGRH ,Grisslehamn
+SE_1SEGVX ,Gävle
+SE_1SEHAN ,Hargshamn
+SE_1SEHEL ,Helsingborg
+SE_1SEHUS ,Husum
+SE_1SEIGG ,Iggesund
+SE_1SEJAT ,Jätterssön
+SE_1SEKAA ,Karlskrona
+SE_1SEKAN ,Karlshamn
+SE_1SEKLI ,Klintehamn
+SE_1SEKLR ,Kalmar
+SE_1SEKOG ,Köping
+SE_1SEKPH ,Kappelshamn
+SE_1SEKPS ,Kappelskär
+SE_1SELAA ,Landskrona
+SE_1SELLA ,Luleå
+SE_1SEMMA ,Malmö
+SE_1SENOE ,Norrtälje
+SE_1SENOT ,Norrsundet
+SE_1SENRK ,Norrköping
+SE_1SENYN ,Nynäshamn (ports)
+SE_1SEOER ,Örnsköldsvik
+SE_1SEOSK ,Oskarshamn
+SE_1SEOXE ,Oxelösund (ports)
+SE_1SEPIT ,Piteå
+SE_1SESDL ,Sundsvall
+SE_1SESFT ,Skellefteå
+SE_1SESLI ,Slite (ports)
+SE_1SESOE ,Södertälje
+SE_1SESOL ,Sölvesborg
+SE_1SESOO ,Söderhamn
+SE_1SESOR ,Söråker
+SE_1SESSR ,Skutskär
+SE_1SESTO ,Stockholm
+SE_1SESUS ,Storugns
+SE_1SETRG ,Trelleborg
+SE_1SEUME ,Umeå
+SE_1SEUND ,Underås
+SE_1SEVBY ,Visby
+SE_1SEVST ,Västerås
+SE_1SEVVK ,Västervik
+SE_1SEYST ,Ystad
+SE_2 ,Sweden: North Sea
+SE_2SEALN ,Älvenäs
+SE_2SEAMA ,Åmål
+SE_2SEBRO ,Brofjorden
+SE_2SEFAG ,Falkenberg
+SE_2SEGOT ,Göteborg
+SE_2SEHAD ,Halmstad
+SE_2SEKHN ,Kristinehamn
+SE_2SEKSD ,Karlstad
+SE_2SELDK ,Lidköping
+SE_2SELYS ,Lysekil
+SE_2SEOTT ,Otterbäcken
+SE_2SESKT ,Skattkärr
+SE_2SESMD ,Strömstad
+SE_2SESTE ,Stenungsund (Ports)
+SE_2SETHN ,Trollhättan (Ports)
+SE_2SEUDD ,Uddevalla
+SE_2SEVAG ,Varberg
+SE_2SEVAN ,Vänersborg
+SE_9 ,Sweden: unspecified maritime coastal area
+SE_9SE888 ,Sweden (unknown maritime coastal area) - other ports 
+SE_9SE88C ,Sweden (confidential data aggregated by Eurostat)
+SE_9SE88D ,Sweden - other ports
+UK_1GB203 ,Trent River
+UK_1GB221 ,River Hull & Humber
+UK_1GBABD ,Aberdeen
+UK_1GBBEL ,Belfast
+UK_1GBBLR ,Ballylumford
+UK_1GBBOS ,Boston
+UK_1GBBRS ,Bristol
+UK_1GBCDF ,Cardiff
+UK_1GBCRN ,Cromarty Firth
+UK_1GBCYN ,Cairnryan
+UK_1GBCYP ,Clydeport
+UK_1GBDUN ,Dundee
+UK_1GBDVR ,Dover
+UK_1GBFIS ,Fishguard
+UK_1GBFLE ,Fleetwood
+UK_1GBFOR ,Forth
+UK_1GBFOY ,Fowey
+UK_1GBFXT ,Felixstowe
+UK_1GBGOO ,Goole
+UK_1GBGSA ,Glensanda
+UK_1GBGTY ,Great Yarmouth
+UK_1GBHLY ,Holyhead
+UK_1GBHRW ,Harwich
+UK_1GBHUL ,Hull
+UK_1GBHYM ,Heysham
+UK_1GBIMM ,Immingham
+UK_1GBIPS ,Ipswich
+UK_1GBKPS ,Kilroot Power Station Jetty
+UK_1GBKWL ,Kirkwall
+UK_1GBLAR ,Larne
+UK_1GBLDY ,Londonderry
+UK_1GBLIV ,Liverpool
+UK_1GBLON ,London
+UK_1GBLRP ,Loch Ryan Pt
+UK_1GBMED ,Medway
+UK_1GBMLF ,Milford Haven
+UK_1GBMME ,Tees & Hartlepool
+UK_1GBMNC ,Manchester
+UK_1GBNHV ,Newhaven
+UK_1GBNPT ,"Newport, Gwent"
+UK_1GBPHD ,Peterhead
+UK_1GBPLY ,Plymouth
+UK_1GBPME ,Portsmouth
+UK_1GBPOO ,Poole
+UK_1GBPTB ,Port Talbot
+UK_1GBRMG ,Ramsgate
+UK_1GBSHO ,Shoreham
+UK_1GBSOU ,Southampton
+UK_1GBSTR ,Stranraer
+UK_1GBSUL ,Sullom Voe
+UK_1GBSUN ,Sunderland
+UK_1GBSWA ,Swansea
+UK_1GBTYN ,Tyne
+UK_1GBWPT ,Warrenpoint 
