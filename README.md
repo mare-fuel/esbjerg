@@ -52,5 +52,5 @@ The data processing is implemented in an jupyter notebook (esbjerg.ipynb), using
 
 According to this study, a preliminary __362__ __PJ__ of maritime fuel could potentially be served by an Esbjerg production, based on data for 2017 and at respective transport work of approx. __5__ __Gtkm__.
 
-## Discussion
+## Conclusion
 During the second project meeting with the project partners and the advisory board it was consensus that the fuel demand side will not be a limiting factor for the economic production of electrofuels in Esbjerg. Thus, the MarE-Fuel project will not continue deriving high resolution fuel demand profiles for relevant ports around the North Sea area.
