@@ -1,4 +1,4 @@
-name: esbjerg
+name: esb
 channels:
   - conda-forge
   - defaults
