@@ -1,4 +1,4 @@
-![alt text](https://avatars0.githubusercontent.com/u/60004912?s=200&v=4 "MarE-Fuel logo")
+![alt text](https://avatars0.githubusercontent.com/u/60004912?s=200&v= "MarE-Fuel logo")
 
 # Fuel demand for the Esbjerg case
 
@@ -16,8 +16,9 @@ Deriving annual maritime fuel demand profiles for relevant ports located around 
 3. Exceptional good wind conditions
 4. Shallow water for near shore wind farms
 5. Good infrastructure in place, i.e. port, power and gas grid connection
+6. Availability of district heating network
 
-=> Five important aspects that potentially lead to low production and transport costs.
+=> Six important aspects that potentially lead to low production and transport costs.
 
 ## Research questions
 The analysis aims at answering the following research questions:
