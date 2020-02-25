@@ -1,9 +1,15 @@
-# Fuel demand side for the Esbjerg case
+![alt text](https://avatars0.githubusercontent.com/u/60004912?s=200&v=4 "MarE-Fuel logo")
 
-*MarE-Fuel: WP1 T2*
+# Fuel demand for the Esbjerg case
+
+*MarE-Fuel: WP1.T2*
+
+- Date: 2020-02-28
+- Author: [tilseb](mailto:tilseb@dtu.dk)
+
 
 ## Idea
-Deriving annual maritime fuel demand profiles for relevant ports located around the North Sea area. Thes fuel demand profiles could be deployed in an energy system model in order to analyse at which costs they can be supplyed, i.e. from production close to Esbjerg. Esbjerg seems to be a favourable location for several reason:
+Deriving annual maritime fuel demand profiles for relevant ports located around the North Sea area. These fuel demand profiles could be deployed in an energy system model in order to analyse at which costs they can be supplied, i.e. from production close to Esbjerg. Esbjerg seems to be a favourable location for several reason:
 
 1. In the center of the North-Sea region, very large ports close by
 2. Low population density
@@ -11,7 +17,7 @@ Deriving annual maritime fuel demand profiles for relevant ports located around 
 4. Shallow water for near shore wind farms
 5. Good infrastructure in place, i.e. port, power and gas grid connection
 
-\rightarrow Five important aspects that potentially lead to low production and transport costs.
+=> Five important aspects that potentially lead to low production and transport costs.
 
 ## Research questions
 The analysis aims at answering the following research questions:
@@ -46,7 +52,7 @@ We believe that large amounts on long routes will be the focus area for implemen
 
 
 ## Implementation
-The data processing is implemented in an jupyter notebook (esbjerg.ipynb), using the *panadas* module. The script is released under an open license on [github](https://github.com/mare-fuel/esbjerg_demand).
+The data processing is implemented in an jupyter notebook (esbjerg.ipynb), using the *Panadas* module. The script is released under an open license on [github](https://github.com/mare-fuel/esbjerg_demand).
 
 ## Results
 
