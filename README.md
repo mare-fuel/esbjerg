@@ -56,7 +56,7 @@ The data processing is implemented in an jupyter notebook (esbjerg.ipynb), using
 
 ## Results
 
-According to this study, a preliminary __362__ __PJ__ of maritime fuel could potentially be served by an Esbjerg production, based on data for 2017 and at respective transport work of approx. __5__ __Gtkm__.
+According to this study, a preliminary __362__ __PJ__ of maritime fuel could potentially be served by an Esbjerg production, based on data for 2017 and at a respective transport work of approx. __5__ __Gtkm__. [Statistics Denmark](https://www.statbank.dk/statbank5a/default.asp?w=1366) reported for 2017 __452__ __PJ__ fuel oil bunkered by Danish operated ships abroad. Thus, on a net bases Denmark would be able to fuel a major share of its fleets energy demand by domestic renewable production.
 
 ## Conclusion
 During the second project meeting with the project partners and the advisory board it was consensus that the fuel demand side will not be a limiting factor for the economic production of electrofuels in Esbjerg. Thus, the MarE-Fuel project will not continue deriving high resolution fuel demand profiles for relevant ports around the North Sea area.
